@@ -24,3 +24,4 @@ namespace Warunkowe_2
         }
     }
 }
+
