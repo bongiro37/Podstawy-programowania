@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petla-for_1", "Petla-for_1\Petla-for_1.csproj", "{286C61B6-547B-40CC-8A7D-B621B47F6C45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petla-for_2", "Petla-for_2\Petla-for_2.csproj", "{D35CF747-0BCB-4BF4-B0CB-B59FECAF5A41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petla-for_3", "Petla-for_3\Petla-for_3.csproj", "{1DC0884B-50FB-41DB-A788-9ED6E0F0E7A9}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{286C61B6-547B-40CC-8A7D-B621B47F6C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286C61B6-547B-40CC-8A7D-B621B47F6C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286C61B6-547B-40CC-8A7D-B621B47F6C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286C61B6-547B-40CC-8A7D-B621B47F6C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D35CF747-0BCB-4BF4-B0CB-B59FECAF5A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35CF747-0BCB-4BF4-B0CB-B59FECAF5A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35CF747-0BCB-4BF4-B0CB-B59FECAF5A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35CF747-0BCB-4BF4-B0CB-B59FECAF5A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC0884B-50FB-41DB-A788-9ED6E0F0E7A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC0884B-50FB-41DB-A788-9ED6E0F0E7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC0884B-50FB-41DB-A788-9ED6E0F0E7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC0884B-50FB-41DB-A788-9ED6E0F0E7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
