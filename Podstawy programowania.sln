@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petla-for_2", "Petla-for_2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petla-for_3", "Petla-for_3\Petla-for_3.csproj", "{1DC0884B-50FB-41DB-A788-9ED6E0F0E7A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petla-for_4", "Petla-for_4\Petla-for_4.csproj", "{460C0986-B020-46FB-ADB7-321691F4FB11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1DC0884B-50FB-41DB-A788-9ED6E0F0E7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DC0884B-50FB-41DB-A788-9ED6E0F0E7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DC0884B-50FB-41DB-A788-9ED6E0F0E7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460C0986-B020-46FB-ADB7-321691F4FB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460C0986-B020-46FB-ADB7-321691F4FB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460C0986-B020-46FB-ADB7-321691F4FB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460C0986-B020-46FB-ADB7-321691F4FB11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
